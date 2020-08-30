@@ -36,6 +36,6 @@ jobs:
       - run: npm install
         
       # Run Cypress
-      - run: npx cy:run
+      - run: npx cypress run
 
  
