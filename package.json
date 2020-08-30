@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-	  "cypress": "cypress open"
+    "cypress": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/marilourenco/cypress-project#readme",
   "devDependencies": {
-    "cypress": "^5.0.0"
+    "chance": "^1.1.7",
+    "cypress": "^5.0.0",
+    "cypress-file-upload": "^4.1.1"
   }
 }
