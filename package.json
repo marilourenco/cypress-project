@@ -1,0 +1,26 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marilourenco/cypress-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marilourenco/cypress-project/issues"
+  },
+  "homepage": "https://github.com/marilourenco/cypress-project#readme",
+  "devDependencies": {
+    "chance": "^1.1.7",
+    "cypress": "^5.0.0",
+    "cypress-file-upload": "^4.1.1"
+  }
+}
